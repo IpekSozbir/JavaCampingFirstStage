@@ -21,6 +21,6 @@ public class C01_HelloWorld {
         kabul edilir
          */
 
-
+//merhaba
     }
 }
