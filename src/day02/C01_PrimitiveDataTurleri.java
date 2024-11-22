@@ -49,11 +49,6 @@ public class C01_PrimitiveDataTurleri {
         // UYARI : double sayilari ustel olarak tuttugu icin
         // virgulden sonra ilerleyen basamaklarda hata olabilir
 
-
-
-
-
-
     }
 
 }

@@ -23,8 +23,6 @@ public class C02_NonPrimitiveDataTurleri {
         System.out.println(metin1.charAt(6)); // a
         System.out.println(metin1.charAt(8)); // d
 
-
-
     }
 
 }
