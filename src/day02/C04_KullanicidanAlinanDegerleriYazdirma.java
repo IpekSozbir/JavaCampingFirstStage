@@ -6,7 +6,7 @@ public class C04_KullanicidanAlinanDegerleriYazdirma {
 
     public static void main(String[] args) {
 
-        // Soru 5- Kullanicidan ismini, soyismini ve yasini alip asagidaki formatta yazdirin.
+        // Soru : Kullanicidan ismini, soyismini ve yasini alip asagidaki formatta yazdirin.
         // girilen bilgiler : J Doe, 44
         // Kaydiniz basarili sekilde olusturuldu
 
